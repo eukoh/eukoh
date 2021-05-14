@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eukoh
-- 👀 I’m interested in Data Science & CyberSecurity
+- 👀 I’m interested in Machine Learning, Artificial intelligence  & CyberSecurity
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me ...eukoh.us@gmail.com
